@@ -21,7 +21,7 @@
           <li class="nav-item">
             <a class="nav-link" href="#services">Servicios</a>
           </li>
-<!--           <li class="nav-item">
+          <!--           <li class="nav-item">
             <a class="nav-link" href="#portfolio">Portfolio</a>
           </li> -->
           <li class="nav-item">
@@ -29,6 +29,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#clients">Clientes</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/Portafolio.pdf">Portafolio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#contact">Contacto</a>

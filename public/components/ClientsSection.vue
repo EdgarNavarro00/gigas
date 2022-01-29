@@ -9,7 +9,7 @@
           </h3>
         </div>
         <div class="row align-items-center">
-          <div class="col-md-3 col-sm-6 my-3">
+          <div class="col-md-4 col-sm-6 my-3">
             <a href="#!"
               ><img
                 class="img-fluid img-brand d-block mx-auto"
@@ -17,23 +17,15 @@
                 alt="..."
             /></a>
           </div>
-          <div class="col-md-3 col-sm-6 my-3">
+          <div class="col-md-4 col-sm-6 my-3">
             <a href="#!"
               ><img
                 class="img-fluid img-brand d-block mx-auto"
-                src="~/assets/img/logos/colegiocervantes-logo.jpg"
+                src="~/assets/img/logos/coarma-logo.png"
                 alt="..."
             /></a>
           </div>
-          <div class="col-md-3 col-sm-6 my-3">
-            <a href="#!"
-              ><img
-                class="img-fluid img-brand d-block mx-auto"
-                src="~/assets/img/logos/lobby33-logo.png"
-                alt="..."
-            /></a>
-          </div>
-          <div class="col-md-3 col-sm-6 my-3">
+          <div class="col-md-4 col-sm-6 my-3">
             <a href="#!"
               ><img
                 class="img-fluid img-brand d-block mx-auto"

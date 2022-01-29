@@ -9,20 +9,14 @@
       <MastHead />
       <!-- Services-->
       <ServicesSection />
-      <!-- Portfolio Grid-->
-      <!-- <PortfolioSection /> -->
       <!-- About-->
       <AboutSection />
-      <!-- Team-->
-      <!-- <TeamSection /> -->
       <!-- Clients-->
       <ClientsSection />
       <!-- Contact-->
       <ContactSection />
       <!-- Footer-->
       <FooterSection />
-      <!-- Portfolio Modals-->
-      <!-- <PortfolioModals /> -->
     </body>
   </html>
 </template>

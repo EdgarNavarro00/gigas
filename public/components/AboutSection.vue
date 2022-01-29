@@ -17,7 +17,7 @@
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="~/assets/img/about/1.jpg"
+              src="~/assets/img/header-logo-white.png"
               alt="..."
             />
           </div>
@@ -42,7 +42,7 @@
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="~/assets/img/about/2.jpg"
+              src="~/assets/img/header-logo-white.png"
               alt="..."
             />
           </div>
@@ -68,7 +68,7 @@
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="~/assets/img/about/3.jpg"
+              src="~/assets/img/header-logo-white.png"
               alt="..."
             />
           </div>
@@ -91,7 +91,7 @@
           <div class="timeline-image">
             <img
               class="rounded-circle img-fluid"
-              src="~/assets/img/about/4.jpg"
+              src="~/assets/img/header-logo-white.png"
               alt="..."
             />
           </div>
@@ -127,3 +127,14 @@
     </div>
   </section>
 </template>
+<style>
+section#about {
+  background-color: #212529;
+  background-image: linear-gradient( 
+    180deg
+    , rgb(255 255 255 / 80%) 0, rgb(255 255 255 / 80%) ), url('~assets/img/about/about-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+</style>
