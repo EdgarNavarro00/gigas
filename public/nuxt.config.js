@@ -8,7 +8,7 @@ export default {
   head: {
     title: 'GiGas',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'es_mx',
     },
     meta: [
       { charset: 'utf-8' },

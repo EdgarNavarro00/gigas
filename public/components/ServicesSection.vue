@@ -9,11 +9,6 @@
       </div>
       <div class="row text-center">
         <div class="col-md-12">
-          <!--           <img
-            class="rounded-circle z-depth-2 img-fluid"
-            alt="100x100"
-            src="~/assets/img/bim.png"            
-          /> -->
           <h4 class="my-3">Ingeniería BIM Gas NATURAL y GAS L.P.</h4>
           <ul class="text-muted no-marks">
             <li>Ingeniería BIM</li>
@@ -21,7 +16,7 @@
             <li>Memoria descriptiva</li>
             <li>Levantamientos</li>
             <li>Cuantificación</li>
-            <li>Catalogo de conceptos</li>
+            <li>Catálogo de conceptos</li>
             <li>Presupuesto Desglosado</li>
           </ul>
         </div>
@@ -46,11 +41,6 @@
       </div>
       <div class="row text-center">
         <div class="col-md-12">
-          <!--           <img
-            class="rounded-circle z-depth-2 img-fluid"
-            alt="100x100"
-            src="~/assets/img/bim-instalado.png"            
-          /> -->
           <h4 class="my-3">Instalación de Gas NATURAL y GAS L.P.</h4>
           <ul class="text-muted no-marks">
             <li>Instalaciones Industriales</li>

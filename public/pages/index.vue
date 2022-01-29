@@ -1,6 +1,6 @@
 <template>
   <!DOCTYPE html>
-  <html lang="en">
+  <html>
     <head> </head>
     <body id="page-top">
       <!-- Navigation-->
