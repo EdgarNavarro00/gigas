@@ -9,7 +9,7 @@
           </h3>
         </div>
         <div class="row align-items-center">
-          <div class="col-md-4 col-sm-6 my-3">
+          <div class="col-md-6 col-sm-6 my-3">
             <a href="#!"
               ><img
                 class="img-fluid img-brand d-block mx-auto"
@@ -17,7 +17,7 @@
                 alt="..."
             /></a>
           </div>
-          <div class="col-md-4 col-sm-6 my-3">
+          <div class="col-md-6 col-sm-6 my-3">
             <a href="#!"
               ><img
                 class="img-fluid img-brand d-block mx-auto"
@@ -25,14 +25,14 @@
                 alt="..."
             /></a>
           </div>
-          <div class="col-md-4 col-sm-6 my-3">
+<!--           <div class="col-md-4 col-sm-6 my-3">
             <a href="#!"
               ><img
                 class="img-fluid img-brand d-block mx-auto"
                 src="~/assets/img/logos/naturesweet-logo.png"
                 alt="..."
             /></a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
