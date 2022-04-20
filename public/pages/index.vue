@@ -12,7 +12,7 @@
       <!-- About-->
       <AboutSection />
       <!-- Clients-->
-      <ClientsSection />
+      <!-- <ClientsSection /> -->
       <!-- Contact-->
       <ContactSection />
       <!-- Footer-->

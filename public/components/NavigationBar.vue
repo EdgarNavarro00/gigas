@@ -27,9 +27,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#about">¿Quienes somos?</a>
           </li>
-          <li class="nav-item">
+<!--           <li class="nav-item">
             <a class="nav-link" href="#clients">Clientes</a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a class="nav-link" href="/Portafolio.pdf">Portafolio</a>
           </li>
