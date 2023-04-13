@@ -5,7 +5,7 @@
         <h2 class="section-heading text-uppercase">¿Quienes somos?</h2>
         <h3 class="section-subheading text-muted">
           Somos una empresa Innovadora y especializada con experiencia en la
-          instalación, e Ingeniería BIM de Gas Natural y Gas L.P. en donde el
+          instalación, e Ingeniería BIM de Gas Natural, Gas LP, Instalaciones Hidrosanitarias y Gases Medicinales en donde el
           enfoque primordial es entregarle al cliente el mejor servicio al mejor
           costo. Apegada a las Normas Oficiales Mexicanas (NOM), Brindándole
           seguridad en su proyecto. Creamos Soluciones Integrales de Gas Natural
@@ -29,7 +29,7 @@
             <div class="timeline-body">
               <p class="text-muted">
                 Proporcionar servicios de calidad en instalación e ingeniería
-                BIM de Gas Natural y Gas LP, mediante la mejora constante de
+                BIM de Gas Natural, Gas LP, Instalaciones Hidrosanitarias y Gases Medicinales, mediante la mejora constante de
                 nuestros procesos, garantizando seguridad con la mayor
                 eficiencia y eficacia en materiales y personal capacitado, dando
                 seguimiento personalizado a nuestros clientes, buscando
@@ -54,7 +54,7 @@
             <div class="timeline-body">
               <p class="text-muted">
                 Ser reconocidos como la mejor opción en la instalación e
-                ingeniería BIM de Gas LP y Gas Natural en el área de influencia
+                ingeniería BIM de Gas Natural, Gas LP, Instalaciones Hidrosanitarias y Gases Medicinales en el área de influencia
                 donde competimos, comprometidos con la seguridad operativa los
                 costos; enfocando nuestro esfuerzo hacia un crecimiento
                 integral, a través de la práctica de una cultura organizacional

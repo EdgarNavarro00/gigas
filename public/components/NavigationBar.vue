@@ -31,7 +31,7 @@
             <a class="nav-link" href="#clients">Clientes</a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="/Portafolio.pdf">Portafolio</a>
+            <a class="nav-link" href="/G.i._GAS_PRESENTACION_GM.pdf">Portafolio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#contact">Contacto</a>

@@ -9,7 +9,7 @@
       </div>
       <div class="row text-center">
         <div class="col-md-12">
-          <h4 class="my-3">Ingeniería BIM Gas NATURAL y GAS L.P.</h4>
+          <h4 class="my-3">Ingeniería BIM Gas NATURAL, Gas LP, Instalaciones Hidrosanitarias y Gases Medicinales</h4>
           <ul class="text-muted no-marks">
             <li>Ingeniería BIM</li>
             <li>Memoria de cálculo</li>
@@ -25,23 +25,29 @@
         <div class="column">
           <img src="~/assets/img/gallery/bim-1.jpeg" />
           <img src="~/assets/img/gallery/bim-5.jpeg" />
+          <img src="~/assets/img/gallery/bim-9.jpg" />
+          <img src="~/assets/img/gallery/bim-13.jpg" />
         </div>
         <div class="column">
           <img src="~/assets/img/gallery/bim-2.jpeg" />
           <img src="~/assets/img/gallery/bim-6.jpeg" />
+          <img src="~/assets/img/gallery/bim-10.jpg" />
+          <img src="~/assets/img/gallery/bim-14.jpg" />
         </div>
         <div class="column">
           <img src="~/assets/img/gallery/bim-3.jpeg" />
           <img src="~/assets/img/gallery/bim-7.jpeg" />
+          <img src="~/assets/img/gallery/bim-11.jpg" />
         </div>
         <div class="column">
           <img src="~/assets/img/gallery/bim-4.jpeg" />
           <img src="~/assets/img/gallery/bim-8.jpeg" />
+          <img src="~/assets/img/gallery/bim-12.jpg" />
         </div>
       </div>
       <div class="row text-center">
         <div class="col-md-12">
-          <h4 class="my-3">Instalación de Gas NATURAL y GAS L.P.</h4>
+          <h4 class="my-3">Instalación de Gas NATURAL, Gas LP, Instalaciones Hidrosanitarias y Gases Medicinales</h4>
           <ul class="text-muted no-marks">
             <li>Instalaciones Industriales</li>
             <li>Instalaciones Comerciales</li>
@@ -54,18 +60,28 @@
         <div class="column">
           <img src="~/assets/img/gallery/inst-01.jpg" />
           <img src="~/assets/img/gallery/inst-05.jpg" />
+          <img src="~/assets/img/gallery/inst-09.jpg" />
+          <img src="~/assets/img/gallery/inst-13.jpg" />
+          <img src="~/assets/img/gallery/inst-17.jpg" />
         </div>
         <div class="column">
           <img src="~/assets/img/gallery/inst-02.jpg" />
           <img src="~/assets/img/gallery/inst-06.jpg" />
+          <img src="~/assets/img/gallery/inst-10.jpg" />
+          <img src="~/assets/img/gallery/inst-14.jpg" />
+          <img src="~/assets/img/gallery/inst-18.jpg" />
         </div>
         <div class="column">
           <img src="~/assets/img/gallery/inst-03.jpg" />
           <img src="~/assets/img/gallery/inst-07.jpg" />
+          <img src="~/assets/img/gallery/inst-11.jpg" />
+          <img src="~/assets/img/gallery/inst-15.jpg" />
         </div>
         <div class="column">
           <img src="~/assets/img/gallery/inst-04.jpg" />
           <img src="~/assets/img/gallery/inst-08.png" />
+          <img src="~/assets/img/gallery/inst-12.jpg" />
+          <img src="~/assets/img/gallery/inst-16.jpg" />
         </div>
       </div>
     </div>
