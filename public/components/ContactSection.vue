@@ -8,8 +8,8 @@
         </h3> -->
         <div>
           <i class="fa-light fa-envelope primary"></i
-          ><a href="mailto:administracion@gigasingenieria.com.mx">
-            administracion@gigasingenieria.com.mx</a
+          ><a href="mailto:arq.iescobar@gmail.com">
+            arq.iescobar@gmail.com</a
           >
           <br />
           <i class="fab fa-whatsapp primary"></i
