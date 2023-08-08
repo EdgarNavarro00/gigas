@@ -18,8 +18,8 @@
           >
           <br />
           <i class="fab fa-whatsapp primary"></i
-          ><a href="https://api.whatsapp.com/send?phone=523334017349">
-            33 34-01-73-49</a
+          ><a href="https://api.whatsapp.com/send?phone=523334540954">
+            33 34-54-09-54</a
           >
         </div>
       </div>
